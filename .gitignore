@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node (safe to include even if unused)
+node_modules/
+
+# Logs
+*.log
